@@ -25,7 +25,7 @@
     "typings"
   ],
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^20.0.0",
+    "@rollup/plugin-commonjs": "^25.0.4",
     "@rollup/plugin-node-resolve": "^13.0.4",
     "@types/cssom": "^0.4.1",
     "@types/cssstyle": "^2.2.1",
